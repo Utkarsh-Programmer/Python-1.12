@@ -1,0 +1,5 @@
+# Problem 3
+# how do you prevent a python print() function to print a new line at the end.
+
+print("Hello", end=" ")
+print("Jarvis")
